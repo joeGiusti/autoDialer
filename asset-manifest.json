@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/autoDialer/static/css/main.23e0b3f1.css",
+    "main.js": "/autoDialer/static/js/main.772bad41.js",
+    "static/js/787.dc1be840.chunk.js": "/autoDialer/static/js/787.dc1be840.chunk.js",
+    "static/media/contactIcon.png": "/autoDialer/static/media/contactIcon.9b61ad1fc3ceb58b79ce.png",
+    "static/media/endCallIcon2.png": "/autoDialer/static/media/endCallIcon2.32f8652631c8f33d1d23.png",
+    "static/media/callIcon2.png": "/autoDialer/static/media/callIcon2.2fb13f3c5d41d389def2.png",
+    "static/media/stop icon.webp": "/autoDialer/static/media/stop icon.39cfb1ec1a142da2627f.webp",
+    "static/media/play icon.webp": "/autoDialer/static/media/play icon.e7a180449f1ac9d4a415.webp",
+    "static/media/puase icon.webp": "/autoDialer/static/media/puase icon.30174b27ee0693e6df5f.webp",
+    "static/media/checkIcon.webp": "/autoDialer/static/media/checkIcon.5ed333ec9a6d56f66550.webp",
+    "static/media/logo.svg": "/autoDialer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/xIcon3.webp": "/autoDialer/static/media/xIcon3.ebd2bb3bd454d4a0de57.webp",
+    "index.html": "/autoDialer/index.html",
+    "main.23e0b3f1.css.map": "/autoDialer/static/css/main.23e0b3f1.css.map",
+    "main.772bad41.js.map": "/autoDialer/static/js/main.772bad41.js.map",
+    "787.dc1be840.chunk.js.map": "/autoDialer/static/js/787.dc1be840.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23e0b3f1.css",
+    "static/js/main.772bad41.js"
+  ]
+}
